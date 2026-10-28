@@ -11,37 +11,6 @@ Geometry Nodes on Blender's XPBD physics solver · Blender 5.2 or newer
 
 </div>
 
-## A few words from the authors
-
-*From @VOZHD1122 & @RoboDrozd:*
-
-Thank you for choosing our project to help bring your creative visions to life and streamline your workflow.
-This add-on is in the very early stages of development, so you may encounter bugs or other issues; we will do
-our best to fix them based on your feedback. Please keep in mind that this add-on was created largely with the
-help of a neural network.
-
-> [!IMPORTANT]
-> **ALWAYS BACK UP YOUR SCENES, JUST IN CASE!**
-
-If you enjoy this add-on—crafted by a machine for 3D artists—and would like to see continued, steady support,
-or if you’re interested in seeing new projects based on our ideas... Or, if you simply wish to support us—a
-team of enthusiasts dedicated to making the already challenging lives of 3D artists a bit easier—we invite you
-to join us on our social media and other platforms:
-
-| Platform | Link | |
-|---|---|---|
-| **GitHub** | [github.com/RoboDrozd/wiggy](https://github.com/RoboDrozd/wiggy) | |
-| **Discord** | [discord.gg/N6WaWncGzG](https://discord.gg/N6WaWncGzG) | Includes dedicated channels for discussing Wiggy |
-| **Twitter** | [x.com/VOZHD1122](https://x.com/VOZHD1122) | DMs are open |
-| **Boosty** | [boosty.to/bombino11](https://boosty.to/bombino11) | For supporting the project in Russian rubles |
-| **Patreon** | [patreon.com/VOZHD11](https://www.patreon.com/VOZHD11) | For supporting the project in US dollars |
-
-> [!NOTE]
-> This README tells what Wiggy is, how it works, what the demo scene shows, and the license.
-> **The guide** — quick start, every input of the modifier, colliders, zones, baking, tips and recipes —
-> is in **[GUIDE ENG.md](GUIDE%20ENG.md)**.
-> Both are also inside `Wiggy 0.1.blend`: open a **Text Editor** and pick **README ENG.txt** or
-> **GUIDE ENG.txt** (Russian versions: **README RUS.txt**, **GUIDE RUS.txt**).
 
 ---
 
@@ -146,6 +115,39 @@ Knowing this helps a lot with tuning.
 - Every demo object is a working example: select it and read its Wiggy modifier settings.
 
 ---
+
+
+## A few words from the authors
+
+*From @VOZHD1122 & @RoboDrozd:*
+
+Thank you for choosing our project to help bring your creative visions to life and streamline your workflow.
+This add-on is in the very early stages of development, so you may encounter bugs or other issues; we will do
+our best to fix them based on your feedback. Please keep in mind that this add-on was created largely with the
+help of a neural network.
+
+> [!IMPORTANT]
+> **ALWAYS BACK UP YOUR SCENES, JUST IN CASE!**
+
+If you enjoy this add-on—crafted by a machine for 3D artists—and would like to see continued, steady support,
+or if you’re interested in seeing new projects based on our ideas... Or, if you simply wish to support us—a
+team of enthusiasts dedicated to making the already challenging lives of 3D artists a bit easier—we invite you
+to join us on our social media and other platforms:
+
+| Platform | Link | |
+|---|---|---|
+| **GitHub** | [github.com/RoboDrozd/wiggy](https://github.com/RoboDrozd/wiggy) | |
+| **Discord** | [discord.gg/N6WaWncGzG](https://discord.gg/N6WaWncGzG) | Includes dedicated channels for discussing Wiggy |
+| **Twitter** | [x.com/VOZHD1122](https://x.com/VOZHD1122) | DMs are open |
+| **Boosty** | [boosty.to/bombino11](https://boosty.to/bombino11) | For supporting the project in Russian rubles |
+| **Patreon** | [patreon.com/VOZHD11](https://www.patreon.com/VOZHD11) | For supporting the project in US dollars |
+
+> [!NOTE]
+> This README tells what Wiggy is, how it works, what the demo scene shows, and the license.
+> **The guide** — quick start, every input of the modifier, colliders, zones, baking, tips and recipes —
+> is in **[GUIDE ENG.md](GUIDE%20ENG.md)**.
+> Both are also inside `Wiggy 0.1.blend`: open a **Text Editor** and pick **README ENG.txt** or
+> **GUIDE ENG.txt** (Russian versions: **README RUS.txt**, **GUIDE RUS.txt**).
 
 <a id="s4"></a>
 ## 4. License: MIT with Commons Clause
