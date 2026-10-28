@@ -23,7 +23,7 @@ Geometry Nodes on Blender's XPBD physics solver · Blender 5.2 or newer
 3. [The demo scene in this file](#s3)
 4. [License: MIT with Commons Clause](#s4)
 
-**Guide** ([GUIDE ENG.md](GUIDE%20ENG.md)): quick start · every input of the modifier · colliders and force fields · several zones · baking, speed and frame rate · tuning tips and recipes · known limits
+**Guide** ([GUIDE.md](GUIDE.md)): quick start · every input of the modifier · colliders and force fields · several zones · baking, speed and frame rate · tuning tips and recipes · known limits
 
 ---
 
