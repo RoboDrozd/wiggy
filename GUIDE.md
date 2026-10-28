@@ -8,7 +8,7 @@
 
 > [!NOTE]
 > What Wiggy is, how it works, the demo scene, the authors' words and the license are in
-> **[README ENG.md](README.md)**. The same guide is inside `Wiggy 0.1.blend`: open a **Text Editor**
+> **[README.md](README.md)**. The same guide is inside `Wiggy 0.1.blend`: open a **Text Editor**
 > and pick **GUIDE ENG.txt** (Russian: **GUIDE RUS.txt**).
 
 ---
