@@ -55,7 +55,7 @@ Knowing this helps a lot with tuning.
 - Between the points, edge and bending constraints keep the surface together (Stretching, Bending).
 - **Mass** gives inertia: when the animation moves, the soft points lag behind, overshoot and swing back. That
   is the jiggle.
-- The solver runs **Substeps** small steps per frame ([GUIDE 2.9](GUIDE%20ENG.md#s2-9)). Some features act inside every substep
+- The solver runs **Substeps** small steps per frame ([GUIDE 2.9](GUIDE.md#s2-9)). Some features act inside every substep
   (contact shaping, volume, sway, wobble, distance limit, self collision), so they stay smooth and stable.
 - **Preserve Volume** and **Sway** work per "island": every connected soft core (each breast, each buttock) is
   treated on its own, even inside one zone.
@@ -145,7 +145,7 @@ to join us on our social media and other platforms:
 > [!NOTE]
 > This README tells what Wiggy is, how it works, what the demo scene shows, and the license.
 > **The guide** — quick start, every input of the modifier, colliders, zones, baking, tips and recipes —
-> is in **[GUIDE ENG.md](GUIDE%20ENG.md)**.
+> is in **[GUIDE.md](GUIDE.md)**.
 > Both are also inside `Wiggy 0.1.blend`: open a **Text Editor** and pick **README ENG.txt** or
 > **GUIDE ENG.txt** (Russian versions: **README RUS.txt**, **GUIDE RUS.txt**).
 
