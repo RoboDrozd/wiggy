@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wiggy 0.2.0
+# Wiggy 0.2.1
 
 **Soft body jiggle for characters and soft objects in Blender**<br>
 Geometry Nodes on Blender's XPBD physics solver · Blender 5.2 or newer
